@@ -1,16 +1,20 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# OS files
+.DS_Store
+Thumbs.db
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+# Editor settings
+.vscode/
+.idea/
 
-# Book build output
-_book
+# Python artifacts (if using scripts)
+__pycache__/
+*.pyc
 
-# eBook build output
-*.epub
-*.mobi
+# Document exports
 *.pdf
+*.docx
+output/
+temp/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
