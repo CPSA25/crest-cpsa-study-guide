@@ -1,3 +1,35 @@
+# CREST CPSA Certification Study Guide
+
+🎓 **A comprehensive, exam-aligned study guide for CREST CPSA certification candidates**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CPSA Aligned](https://img.shields.io/badge/CPSA%20Aligned-v2.5-blue)](https://www.crest-approved.org/)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202025-green)](https://github.com/yourusername/CPSA-Study-Guide)
+
+---
+
+## 📚 About This Guide
+
+This repository contains a **professional-grade, comprehensive study guide** for the **CREST Practitioner Security Analyst (CPSA)** certification. Designed by a PhD researcher in cybersecurity at Newcastle University, this guide bridges the gap between academic knowledge and practical penetration testing frameworks.
+
+### 🎯 What This Is
+
+- ✅ **Exam-Aligned:** Covers CPSA Syllabus v2.5 in detail
+- ✅ **Comprehensive:** 10+ chapters covering all major skills
+- ✅ **Practical:** Real-world examples from UK financial services and healthcare contexts
+- ✅ **Professional:** Written by active cybersecurity researchers
+- ✅ **Open Source:** Free for educational use (MIT License)
+- ✅ **Community-Driven:** Feedback and contributions welcome
+
+### 🚀 What This Isn't
+
+- ❌ Not a replacement for official CREST materials
+- ❌ Not a guarantee of exam pass (but significantly improves preparation)
+- ❌ Not an official CREST publication
+- ❌ Not a substitute for hands-on penetration testing experience
+
+---
+
 # Chapter 2: Law and Compliance (A2)
 
 ## About This Chapter
