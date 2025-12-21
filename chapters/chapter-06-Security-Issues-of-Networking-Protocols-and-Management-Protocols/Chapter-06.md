@@ -36,16 +36,13 @@ By completing this chapter, you will be able to:
 
 **Exam Objectives**
 
-  ----------------------------------------------------------------------------
-  **Skill   **Skill Name**        **Coverage**   **Depth**            **Exam
-  ID**                                                                %**
-  --------- --------------------- -------------- -------------------- --------
-  D1        Management Protocols  ✅FULL         Comprehensive        High
+| Skill ID | Skill Name | Coverage | CPSA Exam Relevance |
+| :--- | :--- | :--- | :--- |
+| **D1** | Management Protocols | ✅ Comprehensive | **High** - Frequent MCQs on SNMP versions & Telnet/SSH |
+| **D2** | Network Traffic Analysis | ✅ Comprehensive | **Medium** - Focus on Port Mirroring/SPAN & Sniffing |
+| **D3** | Networking Protocols | ✅ Comprehensive | **High** - Focus on CDP, STP, and Routing Auth |
+| **D5** | VoIP | ✅ Comprehensive | **Medium** - Focus on SIP vs RTP & VLAN Separation |
 
-  D2        Networking Protocols  ✅FULL         Comprehensive        High
-
-  D5        VOIP                  PARTIAL        Comprehensive        Medium
-  ----------------------------------------------------------------------------
 
 **Network Management**
 
